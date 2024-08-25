@@ -13,7 +13,8 @@ Run following command to start the server:
 change the port number if its busy
 
 Note : 
-src containng the pre-existing library 
+src containng the pre-existing library
+
 project containg the web interface code
 
 Make sure the landing page must be as same as figure provided "Landing Page.png"
