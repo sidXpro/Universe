@@ -1,0 +1,202 @@
+export const quizData =  [
+    {
+      "question": "Which planet is known as the 'Red Planet'?",
+      "options": ["1 Venus", "2 Mars", "3 Jupiter", "4 Mercury"],
+      "correct": 2
+    },
+    {
+      "question": "Which is the largest planet in our Solar System?",
+      "options": ["1 Earth", "2 Saturn", "3 Jupiter", "4 Neptune"],
+      "correct": 3
+    },
+    {
+      "question": "Which planet has the most extensive ring system?",
+      "options": ["1 Uranus", "2 Saturn", "3 Neptune", "4 Jupiter"],
+      "correct": 2
+    },
+    {
+      "question": "What is the smallest planet in our Solar System?",
+      "options": ["1 Mars", "2 Venus", "3 Mercury", "4 Earth"],
+      "correct": 3
+    },
+    {
+      "question": "Which planet is closest to the Sun?",
+      "options": ["1 Earth", "2 Venus", "3 Mercury", "4 Mars"],
+      "correct": 3
+    },
+    {
+      "question": "Which moon is the largest in our Solar System?",
+      "options": ["1 Europa", "2 Titan", "3 Ganymede", "4 Callisto"],
+      "correct": 3
+    },
+    {
+      "question": "Which planet is known for having a Great Red Spot?",
+      "options": ["1 Saturn", "2 Neptune", "3 Jupiter", "4 Mars"],
+      "correct": 3
+    },
+    {
+      "question": "Which planet has a day that is longer than its year?",
+      "options": ["1 Venus", "2 Mercury", "3 Neptune", "4 Pluto"],
+      "correct": 1
+    },
+    {
+      "question": "What is the name of the fifth planet from the Sun?",
+      "options": ["1 Earth", "2 Jupiter", "3 Saturn", "4 Mars"],
+      "correct": 2
+    },
+    {
+      "question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+      "options": ["1 Venus", "2 Mars", "3 Mercury", "4 Jupiter"],
+      "correct": 1
+    },
+    {
+      "question": "Which planet has the shortest day, completing one rotation in about 10 hours?",
+      "options": ["1 Earth", "2 Jupiter", "3 Saturn", "4 Mars"],
+      "correct": 2
+    },
+    {
+      "question": "Which planet is known for its striking blue color, due to the presence of methane in its atmosphere?",
+      "options": ["1 Neptune", "2 Uranus", "3 Earth", "4 Venus"],
+      "correct": 1
+    },
+    {
+      "question": "Which planet has the most volcanoes?",
+      "options": ["1 Earth", "2 Venus", "3 Mars", "4 Mercury"],
+      "correct": 2
+    },
+    {
+      "question": "Which planet in our Solar System has a surface temperature hot enough to melt lead?",
+      "options": ["1 Mercury", "2 Venus", "3 Mars", "4 Earth"],
+      "correct": 2
+    },
+    {
+      "question": "What is the second largest planet in the Solar System?",
+      "options": ["1 Neptune", "2 Uranus", "3 Jupiter", "4 Saturn"],
+      "correct": 4
+    },
+    {
+      "question": "Which planet's atmosphere is composed mostly of carbon dioxide, leading to a strong greenhouse effect?",
+      "options": ["1 Mars", "2 Venus", "3 Earth", "4 Jupiter"],
+      "correct": 2
+    },
+    {
+      "question": "What is the largest object in the asteroid belt between Mars and Jupiter?",
+      "options": ["1 Vesta", "2 Ceres", "3 Pallas", "4 Hygiea"],
+      "correct": 2
+    },
+    {
+      "question": "Which planet has a tilted axis of 98 degrees, causing extreme seasonal variations?",
+      "options": ["1 Uranus", "2 Neptune", "3 Saturn", "4 Mars"],
+      "correct": 1
+    },
+    {
+      "question": "Which planet is famous for its massive storms, including the Great Dark Spot?",
+      "options": ["1 Jupiter", "2 Uranus", "3 Neptune", "4 Saturn"],
+      "correct": 3
+    },
+    {
+      "question": "Which planet was demoted to a dwarf planet in 2006?",
+      "options": ["1 Eris", "2 Ceres", "3 Pluto", "4 Makemake"],
+      "correct": 3
+    },
+    {
+      "question": "Which planet in our Solar System is known for having a prominent ring system?",
+      "options": ["1 Jupiter", "2 Saturn", "3 Uranus", "4 Neptune"],
+      "correct": 2
+    },
+    {
+      "question": "What is the name of Earth's natural satellite?",
+      "options": ["1 Phobos", "2 Deimos", "3 The Moon", "4 Europa"],
+      "correct": 3
+    },
+    {
+      "question": "Which planet is often called Earth's 'sister planet' due to its similar size and composition?",
+      "options": ["1 Mars", "2 Venus", "3 Mercury", "4 Neptune"],
+      "correct": 2
+    },
+    {
+      "question": "Which planet has the most elliptical (oval-shape4 orbit?",
+      "options": ["1 Pluto", "2 Mercury", "3 Neptune", "4 Mars"],
+      "correct": 2
+    },
+    {
+      "question": "Which planet in the Solar System has no atmosphere?",
+      "options": ["1 Venus", "2 Mars", "3 Mercury", "4 Earth"],
+      "correct": 3
+    },
+    {
+      "question": "Which planet is the densest in the Solar System?",
+      "options": ["1 Earth", "2 Saturn", "3 Neptune", "4 Mars"],
+      "correct": 1
+    },
+    {
+      "question": "Which planet takes approximately 84 Earth years to orbit the Sun?",
+      "options": ["1 Neptune", "2 Uranus", "3 Saturn", "4 Jupiter"],
+      "correct": 2
+    },
+    {
+      "question": "Which planet's year is closest to Earth's year, at about 687 Earth days?",
+      "options": ["1 Venus", "2 Mars", "3 Jupiter", "4 Saturn"],
+      "correct": 2
+    },
+    {
+      "question": "Which planet has a moon named Triton, which orbits in the opposite direction of the planet's rotation?",
+      "options": ["1 Uranus", "2 Jupiter", "3 Saturn", "4 Neptune"],
+      "correct": 4
+    },
+    {
+      "question": "Which planet is known for having the highest winds in the Solar System, with speeds reaching over 1,200 miles per hour?",
+      "options": ["1 Mars", "2 Neptune", "3 Saturn", "4 Jupiter"],
+      "correct": 2
+    },
+    {
+      "question": "Which planet has a day length (rotation perio4 of about 24 hours, similar to Earth?",
+      "options": ["1 Venus", "2 Mars", "3 Jupiter", "4 Saturn"],
+      "correct": 2
+    },
+    {
+      "question": "What is the name of the spacecraft that was the first to fly by Pluto in 2015?",
+      "options": ["1 Voyager 1", "2 Pioneer 10", "3 New Horizons", "4 Cassini"],
+      "correct": 3
+    },
+    {
+      "question": "Which planet has a surface pressure over 90 times greater than Earth's?",
+      "options": ["1 Jupiter", "2 Venus", "3 Mars", "4 Neptune"],
+      "correct": 2
+    },
+    {
+      "question": "Which planet is known for having the largest canyon in the Solar System, Valles Marineris?",
+      "options": ["1 Mars", "2 Earth", "3 Mercury", "4 Venus"],
+      "correct": 1
+    },
+    {
+      "question": "Which planet has a hexagonal storm pattern at its north pole?",
+      "options": ["1 Uranus", "2 Neptune", "3 Saturn", "4 Jupiter"],
+      "correct": 3
+    },
+    {
+      "question": "Which planet is primarily composed of hydrogen and helium and has no solid surface?",
+      "options": ["1 Earth", "2 Mars", "3 Venus", "4 Jupiter"],
+      "correct": 4
+    },
+    {
+      "question": "Which planet is the furthest from the Sun?",
+      "options": ["1 Neptune", "2 Uranus", "3 Saturn", "4 Pluto"],
+      "correct": 1
+    },
+    {
+      "question": "Which planet has the shortest orbital period around the Sun, completing a year in just 88 Earth days?",
+      "options": ["1 Mercury", "2 Venus", "3 Mars", "4 Jupiter"],
+      "correct": 1
+    },
+    {
+      "question": "Which planet has the largest volcano in the Solar System, Olympus Mons?",
+      "options": ["1 Earth", "2 Mars", "3 Venus", "4 Mercury"],
+      "correct": 2
+    },
+    {
+      "question": "Which planet is named after the Roman god of agriculture?",
+      "options": ["1 Mars", "2 Neptune", "3 Saturn", "4 Jupiter"],
+      "correct": 3
+    }
+  ];
