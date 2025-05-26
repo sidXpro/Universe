@@ -1,6 +1,7 @@
 # Universe
-https://www.youtube.com/watch?v=ipUq-N7pB8M
-git clone universe :
+Demo: https://www.youtube.com/watch?v=ipUq-N7pB8M
+
+## Start your Universe :
 ```bash
 git clone https://github.com/sidXpro/Universe.git
 cd universe
@@ -17,7 +18,7 @@ src containng the pre-existing library
 
 project containg the web interface code
 
-Make sure the landing page must be as same as figure provided "Landing Page.png"
+Make sure the landing page must be as same as in the figure provided "Landing Page.png"
 must have npm and python installed
 
 ![Solar System Simulation](LandingPage.png)
